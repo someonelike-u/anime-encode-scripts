@@ -15,7 +15,7 @@ import rekt
 
 core = vs.core
 
-file = r'..\D4DJ Double Mix.mkv'
+file = r'..\D4DJ Double Mix_BD.mkv'
 src = core.lsmas.LWLibavSource(source=file)
 denoise = kgf.hybriddenoise(depth(src, 32), 0.45, 1.5)
 src16 = depth(denoise, 16)
