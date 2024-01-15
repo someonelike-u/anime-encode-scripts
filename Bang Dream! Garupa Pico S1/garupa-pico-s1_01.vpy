@@ -7,7 +7,7 @@ import havsfunc as ha
 
 core = vs.core
 
-file = r'..\Bang Dream! Garupa Pico - 01.mkv'
+file = r'..\Bang Dream! Garupa Pico - 01_BD.mkv'
 src = core.ffms2.Source(source=file)
 src16 = depth(src, 16)
 
