@@ -1,2 +1,2 @@
 # anime-encode-scripts
-My weird anime encode scripts
+My weird (and beginner) anime encode scripts
