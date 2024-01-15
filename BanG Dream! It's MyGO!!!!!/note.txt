@@ -1,0 +1,7 @@
+Use :
+- Vapoursynth R65 portable
+- Python 3.11.7
+- Mostly with latest versions of vapoursynth modules & plugins
+
+- Masks done with vspreview and photoshop
+- If no change in masks between TV and BD version, the scripts can also be ready to encode BD version
