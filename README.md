@@ -1,5 +1,7 @@
 # Anime encode scripts
-My weird (and beginner) anime encode scripts
+My weird (and beginner) anime encode scripts.
+
+You can download here [my portable vapoursynth pack](https://kdrive.infomaniak.com/app/share/859085/d0539b34-20d6-423b-a0d4-5b9d1c5f1016) to test my scripts.
 
 ## Comparisons - slow.pics
 - [BanG Dream! It's MyGO!!!!!](https://slow.pics/c/RU3aj5ft)
