@@ -5,3 +5,5 @@ Use :
 
 - Masks done with vspreview and photoshop
 - If no change in masks between TV and BD version, the scripts can also be ready to encode BD version
+
+Comparison: https://slow.pics/c/RU3aj5ft
