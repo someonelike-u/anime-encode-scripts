@@ -1,0 +1,4 @@
+- Cheap encode: aa / line dark / dehalo / dering / denoise / deband / grain
+(too lazy to mask credits)
+
+- Comparison: https://slow.pics/c/JwszDJUZ
